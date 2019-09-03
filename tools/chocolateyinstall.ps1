@@ -3,7 +3,6 @@ $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'https://downloads.sourceforge.net/project/serial-port-monitor/Serial%20Port%20Monitor%20v1.2.1/Serial%20Port%20Notifier%20v1.2.1.exe' # download url, HTTPS preferred
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
   fileType      = 'exe'
   url           = $url
   softwareName  = 'serialportmonitor*'
