@@ -16,9 +16,13 @@
     <summary>Easily identify COM port names of ports plugged in to your computer</summary>
     <description>
 
-=========
-Serial Port Monitor is a utility that sits in your notification tray and monitors the serial ports on your computer. When a port is added or removed, a notification is shown containing the COM port name, allowing you to easily keep track of what’s been plugged in and out. This saves having to navigate to Device Manager to figure out what’s been plugged in. Program launchers can be defined that allow programs to be quickly started using the selected serial port. 
-=========
+Serial Port Monitor is a utility that sits in your notification tray and monitors the serial ports on your computer.
+
+When a port is added or removed, a notification is shown containing the COM port name, allowing you to easily keep track of what’s been plugged in and out.
+
+This saves having to navigate to Device Manager to figure out what’s been plugged in.
+
+Program launchers can be defined that allow programs to be quickly started using the selected serial port.
 
     </description>
   </metadata>
